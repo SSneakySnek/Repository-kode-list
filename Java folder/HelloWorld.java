@@ -9,9 +9,13 @@ public class HelloWorld
         long c = 500;
         double d = 3.2;
         
+        //Storing String
+        String name = "Thomas";
         
-        //Methods
-        public static void addExlcamationPoint(String t) {
+        //How to print out line
+        System.out.println("Hello World, this is my first Java line!");
+        System.out.println(name.toUpperCase());
+        
 
         }
         
