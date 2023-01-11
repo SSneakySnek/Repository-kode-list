@@ -66,4 +66,31 @@ public class HelloWorld
         }
         
     }
+ --------------------------------------------------------------
+  //for loop
      
+  int a = 10;
+        
+  for(int i = 0; i <10; i++){
+      }
+ --------------------------------------------------------------
+  // condition is meet
+    public static void doStuff(){
+
+        int a = 10;
+        
+        while(a < 50) {
+            System.out.println("hi");
+            a++;
+    }
+    
+}
+      public static void main (String[] args) {
+        
+      Brah a = new Brah ();
+      a.doStuff();
+    }        
+            
+--------------------------------------------------------------
+    
+   
