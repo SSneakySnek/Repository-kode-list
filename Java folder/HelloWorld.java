@@ -52,5 +52,18 @@ public class HelloWorld
    
  }
  --------------------------------------------------------------
-     
+ // if else statement
+    public static void doStuff(){
+
+        int a = 10;
+        
+        if (a == 0) {
+            
+        } else if (a == 1) {
+            
+        } else {
+            
+        }
+        
+    }
      
