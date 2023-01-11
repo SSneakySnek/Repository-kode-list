@@ -31,9 +31,26 @@ public class HelloWorld
         public static void addExclamationPoint(String s) {
             System.out.println(s + "!");
         
-
-        }
-        
+---------------------------------------------------------------
+    //return in different classes
+    
+    public class Brah {
+    
+    public static String iAmBrah() {
+        return "i am a brah";
     }
     
 }
+ public class HelloWorld {
+
+    public static void main (String[] args) {
+        
+        Brah a = new Brah();
+        String brah =  a.iAmBrah();
+        System.out.println(brah);
+    }
+   
+ }
+ --------------------------------------------------------------
+     
+     
